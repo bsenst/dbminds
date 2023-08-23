@@ -1,5 +1,14 @@
 # dbminds
 
+Set up a virtual environment.
+
+```
+conda create -n mindsdb
+conda activate mindsdb
+```
+
+Install libraries.
+
 ```
 pip install mindsdb
 ```
